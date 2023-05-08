@@ -1,0 +1,9 @@
+.DS_Store
+tokenization/preprocessing/hosp_module_preproc/.ipynb_checkpoints/*
+tokenization/preprocessing/day_intervals_preproc/__pycache__/*
+tokenization/preprocessing/hosp_module_preproc/__pycache__/*
+tokenization/utils/__pycache__/*
+tokenization/__pycache__
+tokenization/.DS_Store
+tokenization/preprocessing/__pycache__
+models/__pycache__
